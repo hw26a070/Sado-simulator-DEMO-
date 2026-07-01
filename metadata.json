@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 茶道シミュレーター【開発版】",
+  "description": "茶道の一連の流れを楽しく覚えるミニゲーム形式のシミュレーターの設計仕様書です。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
